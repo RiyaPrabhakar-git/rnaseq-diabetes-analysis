@@ -1,0 +1,18 @@
+# Raw sequencing data
+data/raw_fastq/*
+*.fastq
+*.fastq.gz
+*.sra
+
+# Alignment files
+*.sam
+*.bam
+
+# Large intermediate files
+*.fq
+*.fq.gz
+
+# Tem
+porary files
+*.tmp
+*.log
