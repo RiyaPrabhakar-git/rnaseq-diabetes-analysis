@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR957961_1	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957961_1_fastqc.zip
+FastQC	all_sections	SRR957961_2	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957961_2_fastqc.zip
+FastQC	all_sections	SRR957965_1	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957965_1_fastqc.zip
+FastQC	all_sections	SRR957965_2	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957965_2_fastqc.zip
+FastQC	all_sections	SRR957971_1	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957971_1_fastqc.zip
+FastQC	all_sections	SRR957971_2	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957971_2_fastqc.zip
+FastQC	all_sections	SRR957972_1	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957972_1_fastqc.zip
+FastQC	all_sections	SRR957972_2	/mnt/c/Users/LENOVO/Documents/R Files/rnaseq_miniproject/results/fastqc/SRR957972_2_fastqc.zip
